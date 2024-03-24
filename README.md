@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, It's Ahad</h1>
 <h3 align="center">Learning the Depths of ML & Data Science 🚀 | Seeking Innovation & Collaboration 💡</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="animated.gif">
+<br>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprasla31&label=Profile%20views&color=0e75b6&style=flat" alt="aprasla31" /> </p>
