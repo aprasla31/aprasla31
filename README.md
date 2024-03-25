@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aprasla31&show_icons=true&theme=dark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aprasla31&" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aprasla31" /></p>
 
