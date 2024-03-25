@@ -29,5 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aprasla31&show_icons=true&rank_icon=github&theme=dark" /></p>
 
-<p><img align="center" src="" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aprasla31&theme=dark" alt="GitHub Streak" /></a>
