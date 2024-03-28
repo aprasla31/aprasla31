@@ -26,6 +26,6 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=donut" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aprasla31&show_icons=true&rank_icon=github&theme=light" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=31&show_icons=true&rank_icon=github&theme=light" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=light" alt="GitHub Streak" /></a>
